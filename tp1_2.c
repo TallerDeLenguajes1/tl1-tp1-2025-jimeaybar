@@ -1,7 +1,7 @@
 #include <stdio.h>
 
 int calcular_cuadrado(int n) {
-    
+
     return n * n;
 }
 
